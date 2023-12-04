@@ -2,10 +2,16 @@
   .contenido1 {
     font: italic 25px Abecedary;
     color: #3f1f00;
+    text-align: center;
   }
 
   .contenido4 {
     font: normal 20px Alexandria;
+  }
+
+  .contenido5 {
+    font: normal 35px "sweet purple";
+    color: #3f1f00;
   }
 
   .contenido3 {
@@ -29,7 +35,6 @@
 }
 
 #cabecera {
-
     margin: 30px;
     padding: 15px;
 }
@@ -52,18 +57,17 @@
     margin: 30px;
     padding: 15px;
     border-radius: 20px;
-    background-image: url("https://i.pinimg.com/564x/6c/c6/7d/6cc67d2f99ee03190294a8c5d5c6f541.jpg");
-    
+    background-image: url("libro1.jpg");
 }
 
 #cajapadre {
     position: absolute;
-    top: 400px;
+    top: 450px;
     float: left;
     color: #3f1f00;
     right: 20px;
-    width: 140px;
-    height: 150px;
+    width: 210px;
+    height: 100px;
     margin: 5px;
     border-radius: 20px;
     background-color: #FF8A80 ;

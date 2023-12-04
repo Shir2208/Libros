@@ -2,13 +2,39 @@
     background-color: #FFF9C4;
 }
 
+@font-face {
+    font-family: myFirstFont;
+    src: url(HelloChildren.otf);
+  }
+
 .contenido1 {
     font: italic 20px Abecedary;
 }
 
+.contenido2 { 
+    font: normal 30px Time New Roman;
+  }
+
 .contenido3 {
     font: normal 30px Westwood Studio;
   }
+
+  .contenido4 {
+    text-align: center;
+  }
+
+#cabecera3 {
+    color: #d9b122;
+    text-align: center;    
+    text-shadow: rgb(255, 255, 255) 3px 3px 5px;
+    font: bold 30px Humble Boys demo;
+    /*font-family: myFirstFont;
+    font-size: 45px;*/
+    margin: 30px;
+    padding: 15px;
+    border-radius: 20px;
+    background-image: url("inicio2.jpg");
+}
 
 #cabecera2 {
     margin: 30px;

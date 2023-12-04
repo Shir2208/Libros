@@ -2,9 +2,29 @@
     background-color: #F3E5F5;
 }
 
+.contenido1 {
+    font: italic 25px Abecedary;
+    color: #3f1f00;
+}
+
+.contenido2 { 
+    font: normal 30px Time New Roman;
+}
+
 .contenido3 {
     font: normal 30px Westwood Studio;
   }
+
+#cabecera3 {
+    color: #810233;
+    text-align: center;    
+    text-shadow: rgb(255, 255, 255) 7px 7px 9px;
+    font: bold 30px Humble Boys demo;
+    margin: 30px;
+    padding: 15px;
+    border-radius: 20px;
+    background-image: url("LL.jpg");
+}
 
 #cabecera2 {
     margin: 30px;
