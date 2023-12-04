@@ -1,0 +1,72 @@
+  
+  .contenido1 {
+    font: italic 25px Abecedary;
+    color: #3f1f00;
+  }
+
+  .contenido4 {
+    font: normal 20px Alexandria;
+  }
+
+  .contenido3 {
+    font: normal 35px Westwood Studio;
+  }
+
+  .contenido2 {
+    text-align: center; 
+    font: italic 40px Blackout;
+  }
+
+  .contenido {
+    background-color: #ffecd7;
+  }
+
+#titulo {
+    color: #581845;
+    text-align: center;    
+    text-shadow: rgb(255, 255, 255) 7px 7px 9px;
+    font: bold 55px Humble Boys demo;
+}
+
+#cabecera {
+
+    margin: 30px;
+    padding: 15px;
+}
+
+#cabecera2 {
+    margin: 30px;
+    padding: 15px;
+    text-align: center;
+    border: 5px dashed #bababa;
+    /*border: 5px dashed #CCCCCC;*/
+    border-radius: 20px;
+    font: bold 40px;
+}
+
+#cabecera3 {
+    color: #810233;
+    text-align: center;    
+    text-shadow: rgb(255, 255, 255) 7px 7px 9px;
+    font: bold 30px Humble Boys demo;
+    margin: 30px;
+    padding: 15px;
+    border-radius: 20px;
+    background-image: url("https://i.pinimg.com/564x/6c/c6/7d/6cc67d2f99ee03190294a8c5d5c6f541.jpg");
+    
+}
+
+#cajapadre {
+    position: absolute;
+    top: 400px;
+    float: left;
+    color: #3f1f00;
+    right: 20px;
+    width: 140px;
+    height: 150px;
+    margin: 5px;
+    border-radius: 20px;
+    background-color: #FF8A80 ;
+    /*background-color: #ffe4c6 ;
+    background-image: url("https://i.pinimg.com/564x/bb/20/34/bb2034328c01a3545646030b292639ed.jpg");*/
+}

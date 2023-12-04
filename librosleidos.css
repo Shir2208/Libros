@@ -1,0 +1,17 @@
+#pagina {
+    background-color: #F3E5F5;
+}
+
+.contenido3 {
+    font: normal 30px Westwood Studio;
+  }
+
+#cabecera2 {
+    margin: 30px;
+    padding: 15px;
+    text-align: center;
+    border: 5px dashed #bababa;
+    /*border: 5px dashed #CCCCCC;*/
+    border-radius: 20px;
+    font: bold 40px;
+}
